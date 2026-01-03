@@ -1,12 +1,12 @@
 # Student-registration
 Making a student registration form by using basic HTML and CSS
 
-Technology Used:
+#Technology Used:
      HTML,
      CSS
      <br>
-Implementation:
+#Implementation:
      Showcase of only frontend
      <br>
-Using level:
+#Using level:
      Easy to use
